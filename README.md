@@ -28,7 +28,7 @@ Example of combolist numbers:
 ```
 
 Example output:
-[![Code Execution Video Sample](https://github.com/7Wardens/SnapPhone-Check/blob/master/VideoExample/exec_example.mp4)]
+![Code Execution Video Sample](https://github.com/7Wardens/SnapPhone-Check/blob/master/VideoExample/exec_example.gif)
 
 #### Notes
 - If you constantly get ```'[phone_number]' is invalid - Check the phone number and country code```, it is NOT a code error. Each country has certain formats and rules. For example, US does not allow a 0 or 1 after the area-code.
