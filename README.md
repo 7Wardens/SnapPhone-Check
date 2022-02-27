@@ -28,6 +28,7 @@ Example of combolist numbers:
 ```
 
 Example output:
+
 ![Code Execution Video Sample](https://github.com/7Wardens/SnapPhone-Check/blob/master/VideoExample/exec_example.gif)
 
 #### Notes
@@ -37,5 +38,5 @@ Example output:
     - It is recommended to have at least double the amount of threads as proxies
 
 - Currently, the script only shows if the phone number is linked to an account ("taken") or not ("available"). It DOES NOT show the username of a linked account. SO far there seems no way to add this into the code. The only way would this is possible is by grabbing the linked phone numbers, add them to a phone's contact and check SnapChat's add contacts tab. 
-- 
+
 <sub><sup><sub>**DISCLAIMER**: This code was created for educational purposes ONLY. Only use the code on targets who have given permission. The author is not responsible for any malicious use. </sub></sup></sub>
