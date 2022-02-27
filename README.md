@@ -35,3 +35,7 @@ Example output:
 
 - There is the posibility of a bug when using proxies and too many threads. Because the way threads are handled, if there are more threads than proxies the request will be made with no proxy. Also, if a thread does not have an available proxy to change into when a request fails it may cause an error. 
     - It is recommended to have at least double the amount of threads as proxies
+
+
+
+<sub><sup><sub>**DISCLAIMER**: This code was created for educational purposes ONLY. Only use the code on targets who have given permission. The author is not responsible for any malicious use. </sub></sup></sub>
