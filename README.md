@@ -36,6 +36,6 @@ Example output:
 - There is the posibility of a bug when using proxies and too many threads. Because the way threads are handled, if there are more threads than proxies the request will be made with no proxy. Also, if a thread does not have an available proxy to change into when a request fails it may cause an error. 
     - It is recommended to have at least double the amount of threads as proxies
 
-
-
+- Currently, the script only shows if the phone number is linked to an account ("taken") or not ("available"). It DOES NOT show the username of a linked account. SO far there seems no way to add this into the code. The only way would this is possible is by grabbing the linked phone numbers, add them to a phone's contact and check SnapChat's add contacts tab. 
+- 
 <sub><sup><sub>**DISCLAIMER**: This code was created for educational purposes ONLY. Only use the code on targets who have given permission. The author is not responsible for any malicious use. </sub></sup></sub>
