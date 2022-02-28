@@ -4,9 +4,9 @@ Check if a phone number is linked to a SnapChat account
 
 ## Installation
 
-Install via pip:
+Clone repository
 
-    github https://github.com/7Wardens/SnapPhone-Check.git
+    git clone https://github.com/7Wardens/SnapPhone-Check.git
 
 
 
